@@ -4,20 +4,18 @@ It also includes health, nutrition, and population statistics by wealth quintile
 Mental illnesses affect 19% of the adult population, 46% of teenagers, and 13% of children each year. 
 People struggling with their mental health may be in your family, live next door, teach your children or work in the next cubicle.
 
-I took the following data considering different paramteres which helps in examining the mental/physcial health of employees worldwide. 
+Following data consist different paramteres which helps in examining the mental/physcial health of employees worldwide. 
 This analysis will give us insights and lead to possible measures that we can take to counter this problem.
 
-The data has been visualized showing- 
+I took following question under consideration and did visualisation to show them-
 
-  1. Number of people having consequences of discussing physical health issuesin terms of gender and age.
+  1. Whether there is a need for mental health resources in the workplace.
   
-  2. People having mental health consequences worldwide.
+  2. Whether the employer is providing treatment at tech companies.
   
-  3. Number of employees working at tech companies having treatment done.
+  3. Whether the employer offers the wellness program to employees for mental health issues.
   
-  4. People of certain age registered for wellness programs.
-
-After performing visualization and using the random forest method, it concludes that there are 78% chances of treating people at the workplace.
+  4. Mental health consequences worldwide.
 
 Dataset Description
 
